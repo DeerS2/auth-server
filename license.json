@@ -1,4 +1,14 @@
 {
-  "QK8ZY-74GJX-R29ML-TVPX5-3CDEK1": { "type": "lifetime" },
-  "ZZZZ-XXXX-CCCC-3333": { "type": "period", "days": 3, "createdAt": "2025-04-15" }
+  "QK8ZY-74GJX-R29ML-TVPX5-3CDEK1": {
+    "type": "lifetime",
+    "note": "프리미엄 사용자 - 베타테스터",
+    "contact": "test01@example.com"
+  },
+  "ZZZZ-XXXX-CCCC-3333": {
+    "type": "period",
+    "days": 3,
+    "createdAt": "2025-04-15",
+    "note": "3일 체험용 라이센스",
+    "contact": "010-1234-5678"
+  }
 }
